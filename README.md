@@ -1,7 +1,7 @@
-# my-military-counter
-구닌인 나를 위한 디데이 카운터
+# my-adult-counter
+나를 위한 성인 디데이 카운터
 
-[Preview](https://detegice.github.io/my-military-counter/)
+[Preview](https://izunya.github.io/my-adult-counter/)
 
 ## How to Customize
 
