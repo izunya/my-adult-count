@@ -1,8 +1,6 @@
 # my-newlife-counter
 나를 위한 새로운 인생 타이머
 
-[Preview](https://izunya.github.io/my-newlife-counter/)
-
 ## How to Customize
 
 1. `main.css` > `.bg-image` 의 `background-image` url 변경
