@@ -1,7 +1,7 @@
-# my-adult-counter
-나를 위한 성인 디데이 카운터
+# my-newlife-counter
+나를 위한 새로운 인생 타이머
 
-[Preview](https://izunya.github.io/my-adult-counter/)
+[Preview](https://izunya.github.io/my-newlife-counter/)
 
 ## How to Customize
 
